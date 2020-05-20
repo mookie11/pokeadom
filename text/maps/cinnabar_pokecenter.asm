@@ -3,7 +3,7 @@ _CinnabarPokecenterText1:: ; a12de (28:52de)
 	text "אתה יכול לבטל"
 	line "התפתחות."
 
-	para "כאשר #MON"
+	para "כאשר #ימון"
 	line "מתפתח, אתה יכול"
 	cont "לעצור זאת ולהשאיר"
 	cont "אותו כמו שהוא."
@@ -13,9 +13,9 @@ _CinnabarPokecenterText3:: ; a133e (28:533e)
 	text "יש לך"
 	line "חברים?"
 
-	para "#MON שאתה מקבל ="
-	line "בהחלפות גדלים"
-	cont "במהירות רבה."
+	para "#ימונים שאתה"
+	line "מקבל בהחלפות"
+	cont "גדלים מהר מאוד."
 
 	para "אני חושב שזה"
 	line "שווה ניסיון!"
