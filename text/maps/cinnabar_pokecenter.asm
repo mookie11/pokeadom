@@ -1,23 +1,23 @@
 _CinnabarPokecenterText2:: ; a12de (28:52de)
 _CinnabarPokecenterText1:: ; a12de (28:52de)
-	text "You can cancel"
-	line "evolution."
+	text "אתה יכול לבטל"
+	line "התפתחות."
 
-	para "When a #MON is"
-	line "evolving, you can"
-	cont "stop it and leave"
-	cont "it the way it is."
+	para "כאשר #MON"
+	line "מתפתח, אתה יכול"
+	cont "לעצור זאת ולהשאיר"
+	cont "אותו כמו שהוא."
 	done
 
 _CinnabarPokecenterText3:: ; a133e (28:533e)
-	text "Do you have any"
-	line "friends?"
+	text "יש לך"
+	line "חברים?"
 
-	para "#MON you get"
-	line "in trades grow"
-	cont "very quickly."
+	para "#MON שאתה מקבל ="
+	line "בהחלפות גדלים"
+	cont "במהירות רבה."
 
-	para "I think it's"
-	line "worth a try!"
+	para "אני חושב שזה"
+	line "שווה ניסיון!"
 	done
 
