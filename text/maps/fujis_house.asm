@@ -1,86 +1,86 @@
 _LavenderHouse1Text_1d8d1:: ; 99e8d (26:5e8d)
-	text "That's odd, MR.FUJI"
-	line "isn't here."
-	cont "Where'd he go?"
+	text "זה מוזר, מר פוג'י"
+	line "לא פה."
+	cont "לאיפה הוא הלך?"
 	done
 
 _LavenderHouse1Text_1d8d6:: ; 99eba (26:5eba)
-	text "MR.FUJI had been"
-	line "praying alone for"
-	cont "CUBONE's mother."
+	text "מר פוג'י היה"
+	line "מתפלל לבד על"
+	cont "אמא של קיובון."
 	done
 
 _LavenderHouse1Text_1d8f4:: ; 99eee (26:5eee)
-	text "This is really"
-	line "MR.FUJI's house."
+	text "זה באמת"
+	line "הבית של מר פוג'י."
 
-	para "He's really kind!"
+	para "הוא ממש אדיב!"
 
-	para "He looks after"
-	line "abandoned and"
-	cont "orphaned #MON!"
+	para "הוא דואג"
+	line "ל#ימונים נטושים"
+	cont "ויתומים!"
 	done
 
 _LavenderHouse1Text_1d8f9:: ; 99f4b (26:5f4b) female
-	text "It's so warm!"
-	line "#MON are so"
-	cont "nice to hug!"
+	text "זה כזה חמים!"
+	line "ימונים הם כאלה#"
+	cont "כיפים לחיבוק!"
 	done
 
 _LavenderHouse1Text3:: ; 99f72 (26:5f72)
-	text "PSYDUCK: Gwappa!@@"
+	text "פסיידק: גוופה!@@"
 
 _LavenderHouse1Text4:: ; 99f85 (26:5f85)
-	text "NIDORINO: Gaoo!@@"
+	text "נידורינו: גאוו!@@"
 
 _LavenderHouse1Text_1d94c:: ; 99f97 (26:5f97)
-	text "MR.FUJI: ", $52, "."
+	text "מר פוג'י: ", $52, "."
 
-	para "Your #DEX quest"
-	line "may fail without"
-	cont "love for your"
-	cont "#MON."
+	para "משימת ה#ידע שלך"
+	line "יכולה להכשל בלי"
+	cont "אהבה ל#ימונים"
+	cont "שלך."
 
-	para "I think this may"
-	line "help your quest."
+	para "אני חושב שזה יכול"
+	line "לעזור לך במסע."
 	prompt
 
 _ReceivedFluteText:: ; 99ffb (26:5ffb)
-	text $52, " received"
-	line "a @"
+	text $52, " קיבלת"
+	line "@"
 	TX_RAM wcf4b
 	text "!@@"
 
 _FluteExplanationText:: ; 9a011 (26:6011)
 	db $0
-	para "Upon hearing #"
-	line "FLUTE, sleeping"
-	cont "#MON will"
-	cont "spring awake."
+	para "כששומעים"
+	line "חליל#, #ימונים"
+	cont "ישנים"
+	cont "יתעוררו ויקומו."
 
-	para "It works on all"
-	line "sleeping #MON."
+	para "זה עובד על כל"
+	line "ימון ישן#."
 	done
 
 _FluteNoRoomText:: ; 9a069 (26:6069)
-	text "You must make"
-	line "room for this!"
+	text "אתה חייב לפנות"
+	line "מקום לזה!"
 	done
 
 _MrFujiAfterFluteText:: ; 9a087 (26:6087)
-	text "MR.FUJI: Has my"
-	line "FLUTE helped you?"
+	text "מר פוג'י: האם החליל"
+	line "שלי עזר לך?"
 	done
 
 _LavenderHouse1Text6:: ; 9a0aa (26:60aa)
-	text "#MON Monthly"
-	line "Grand Prize"
-	cont "Drawing!"
+	text "פרס מקום ראשון"
+	line "על ציור"
+	cont "ה#ימונים!"
 
-	para "The application"
-	line "form is..."
+	para "ההגשה"
+	line "היא..."
 
-	para "Gone! It's been"
-	line "clipped out!"
+	para "נעלמה! היא"
+	line "יצאה החוצה!"
 	done
 
