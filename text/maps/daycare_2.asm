@@ -1,34 +1,34 @@
 _DayCareMText_56437:: ; 8c000 (23:4000)
-	text "All right then,"
+	text "אוקי,"
 	line "@@"
 
 _DayCareMText_5643b:: ; 8c013 (23:4013)
-	text "come again."
+	text "מקווה שתבוא שוב."
 	done
 
 _DayCareMText_56440:: ; 8c020 (23:4020)
-	text "You have no room"
-	line "for this #MON!"
+	text "אין לך מקום"
+	line "ל#ימון הזה!"
 	done
 
 _DayCareMText_56445:: ; 8c041 (23:4041)
-	text "You only have one"
-	line "#MON with you."
+	text "יש עליך רק"
+	line "ימון אחד#."
 	done
 
 _DayCareMText_5644a:: ; 8c063 (23:4063)
-	text "I can't accept a"
-	line "#MON that"
-	cont "knows an HM move."
+	text "אני לא יכול לקבל"
+	line "ימון שיודע#"
+	cont "התקפה נסתרת."
 	done
 
 _DayCareMText_5644f:: ; 8c090 (23:4090)
-	text "Thank you! Here's"
-	line "your #MON!"
+	text "תודה! הנה"
+	line "ה#ימון שלך!"
 	prompt
 
 _DayCareMText_56454:: ; 8c0ad (23:40ad)
-	text "Hey, you don't"
-	line "have enough ¥!"
+	text "היי, אין לך"
+	line "מספיק ¥!"
 	done
 
