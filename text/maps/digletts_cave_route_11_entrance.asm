@@ -1,9 +1,9 @@
 _DiglettsCaveEntRoute11Text1:: ; 8c7f9 (23:47f9)
-	text "What a surprise!"
-	line "DIGLETTs dug this"
-	cont "long tunnel!"
+	text "איזו הפתעה!"
+	line "דיגלטים חפרו את"
+	cont "התעלה הארוכה הזו!"
 
-	para "It goes right to"
-	line "VIRIDIAN CITY!"
+	para "היא מגיע עד"
+	line "העיר ורידיאן!"
 	done
 
