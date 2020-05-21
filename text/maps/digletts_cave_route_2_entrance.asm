@@ -1,10 +1,10 @@
 _DiglettsCaveRoute2Text1:: ; 8a6a7 (22:66a7)
-	text "I went to ROCK"
-	line "TUNNEL, but it's"
-	cont "dark and scary."
+	text "הלכתי לתעלת"
+	line "האבן, אבל היא"
+	cont "חשוכה ומפחידה."
 
-	para "If a #MON's"
-	line "FLASH could light"
-	cont "it up..."
+	para "אם התקפת ה#ימון"
+	line "הארה תאיר"
+	cont "את התעלה..."
 	done
 
