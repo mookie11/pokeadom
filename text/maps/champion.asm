@@ -1,147 +1,147 @@
 _GaryText_760f4:: ; 860e1 (21:60e1)
-	text $53, ": Hey!"
+	text $53, ": היי!"
 
-	para "I was looking"
-	line "forward to seeing"
-	cont "you, ", $52, "!"
+	para "בדיוק רציתי"
+	line "לפגוש"
+	cont "אותך, ", $52, "!"
 
-	para "My rival should"
-	line "be strong to keep"
-	cont "me sharp!"
+	para "היריב שלי"
+	line "צריך להיות חזק"
+	cont "כדי שאני אשאר חזק"
 
-	para "While working on"
-	line "#DEX, I looked"
-	cont "all over for"
-	cont "powerful #MON!"
+	para "בזמן שעבדתי על"
+	line "ה#ידע, חיפשתי "
+	cont "בכל מקום"
+	cont "מון חזק#"
 
-	para "Not only that, I"
-	line "assembled teams"
-	cont "that would beat"
-	cont "any #MON type!"
+	para "לא רק זה! אני"
+	line "הרכבתי קבוצה"
+	cont "שיכולה להביס"
+	cont "כל סוג #ימון!"
 
-	para "And now!"
+	para "ועכשיו!"
 
-	para "I'm the #MON"
-	line "LEAGUE champion!"
+	para "אני אלוף"
+	line "ליגת ה#ימונים!"
 
-	para $52, "! Do you"
-	line "know what that"
-	cont "means?"
+	para $52, "! אתה יודע"
+	line "מה השם הזה"
+	cont "אומר?"
 
-	para "I'll tell you!"
+	para "אני אומר לך!"
 
-	para "I am the most"
-	line "powerful trainer"
-	cont "in the world!"
+	para "אני המאמן"
+	line "הכי חזק"
+	cont "בעולם!"
 	done
 
 _GaryText_760f9:: ; 8623b (21:623b)
-	text "NO!"
-	line "That can't be!"
-	cont "You beat my best!"
+	text "לא!"
+	line "זה לא יכול להיות!"
+	cont "ניצחת אותי בכל העוצמתי!"
 
-	para "After all that"
-	line "work to become"
-	cont "LEAGUE champ?"
+	para "אחרי כל"
+	line "העבודה להיות"
+	cont "אלוף הפוקימונים?"
 
-	para "My reign is over"
-	line "already?"
-	cont "It's not fair!"
+	para "תקופתי תמה"
+	line "כבר?"
+	cont "זה לא פייר!"
 	prompt
 
 _GaryText_760fe:: ; 862b4 (21:62b4)
-	text "Hahaha!"
-	line "I won, I won!"
+	text "חהחהחה!"
+	line "ניצחתי, ניצחתי!"
 
-	para "I'm too good for"
-	line "you, ", $52, "!"
+	para "אני יותר מדי טוב"
+	line "לך, ", $52, "!"
 
-	para "You did well to"
-	line "even reach me,"
-	cont $53, ", the"
-	cont "#MON genius!"
+	para "עשית יפה"
+	line "בכלל להגיע אלי,"
+	cont $53, ", גאון"
+	cont "ה#ימונים!"
 
-	para "Nice try, loser!"
-	line "Hahaha!"
+	para "נסיון יפה, לוזר!"
+	line "חהחהחה!"
 	prompt
 
 _GaryText_76103:: ; 8632f (21:632f)
-	text "Why?"
-	line "Why did I lose?"
+	text "למה?"
+	line "למה הפסדתי?"
 
-	para "I never made any"
-	line "mistakes raising"
-	cont "my #MON..."
+	para "לעולם לא"
+	line "טעיתי בגידול"
+	cont "ה#ימונים שלי..."
 
-	para "Darn it! You're"
-	line "the new #MON"
-	cont "LEAGUE champion!"
+	para "אוף, אתה"
+	line "אלוף ליגת"
+	cont "ה#ימונים!"
 
-	para "Although I don't"
-	line "like to admit it."
+	para "למרות שאני לא"
+	line "אוהב להודות בזה."
 	done
 
 _GaryText2:: ; 863c1 (21:63c1)
-	text "OAK: ", $52, "!"
+	text "אלון: ", $52, "!"
 	done
 
 _GaryText_76120:: ; 863ca (21:63ca)
-	text "OAK: So, you won!"
-	line "Congratulations!"
-	cont "You're the new"
-	cont "#MON LEAGUE"
-	cont "champion!"
+	text "אלון: אז, אתה ניצחת!"
+	line "מזל טוב!"
+	cont "אתה אלוף"
+	cont "ליגת"
+	cont "ה#ימונים!"
 
-	para "You've grown up so"
-	line "much since you"
-	cont "first left with"
+	para "אתה גדלת כל כך"
+	line "הרבה מאז"
+	cont "שהלכת עם"
 	cont "@"
 	TX_RAM wcd6d
 	text "!"
 
-	para $52, ", you have"
-	line "come of age!"
+	para $52, ", אתה"
+	line "ממש התבגרת!"
 	done
 
 _GaryText_76125:: ; 86463 (21:6463)
-	text "OAK: ", $53, "! I'm"
-	line "disappointed!"
+	text "אלון: ", $53, "! אני"
+	line "התאכזבתי!"
 
-	para "I came when I"
-	line "heard you beat"
-	cont "the ELITE FOUR!"
+	para "אני באתי ברגע"
+	line "ששמעתי שהבסת"
+	cont "את הרבעייה העילית!"
 
-	para "But, when I got"
-	line "here, you had"
-	cont "already lost!"
+	para "אבל, כשהגעתי"
+	line "לכאן, אתה"
+	cont "כבר הפסדת!"
 
-	para $53, "! Do you"
-	line "understand why"
-	cont "you lost?"
+	para $53, "! אתה"
+	line "הבנת למה"
+	cont "הפסדת?"
 
-	para "You have forgotten"
-	line "to treat your"
-	cont "#MON with"
-	cont "trust and love!"
+	para "אתה שכחת"
+	line "להפגין"
+	cont "ל#ימונים שלך"
+	cont "אמון ואהבה!"
 
-	para "Without them, you"
-	line "will never become"
-	cont "a champ again!"
+	para "בלי אלה, אתה"
+	line "בחיים לא תיהיה"
+	cont "אלוף שוב!"
 	done
 
 _GaryText_7612a:: ; 86567 (21:6567)
-	text "OAK: ", $52, "!"
+	text "אלון: ", $52, "!"
 
-	para "You understand"
-	line "that your victory"
-	cont "was not just your"
-	cont "own doing!"
+	para "אתה מבין"
+	line "שהניצחון שלך"
+	cont "לא היה רק"
+	cont "שלך!"
 
-	para "The bond you share"
-	line "with your #MON"
-	cont "is marvelous!"
+	para "הקשר שאתה חולק"
+	line "עם ה#ימונים שלך"
+	cont "הוא אדיר!"
 
 	para $52, "!"
-	line "Come with me!"
+	line "בוא איתי!"
 	done
 
